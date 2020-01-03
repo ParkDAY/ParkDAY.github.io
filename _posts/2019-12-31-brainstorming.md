@@ -9,7 +9,6 @@ tags: [브레인스토밍,brainstorming] # add tag
 
 브레인스토밍(Brainstorming)
 
-~~두뇌폭풍~~
 
 브레인스토밍은 토의 방식 중 하나로 아이디어를 최대로 뽑아낼 수 있도록 하는 방식이다.
 
